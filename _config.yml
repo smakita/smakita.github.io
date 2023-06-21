@@ -1,3 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [smakita's personal website]
+description: [This site aims to provide additional materials presented by smakita.]
+show_downloads: [false]
